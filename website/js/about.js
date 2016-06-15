@@ -1,0 +1,45 @@
+$(document).ready(function(){
+	$("#menu1").click(function(){
+		$("#sub1").slideToggle("slow");
+		$("#sub2").hide("slow");
+		$("#sub3").hide("slow");
+		$("#sub4").hide("slow");
+		$("#sub5").hide("slow");
+	});
+});
+$(document).ready(function(){
+	$("#menu2").click(function(){
+		$("#sub2").slideToggle("slow");
+		$("#sub1").hide("slow");
+		$("#sub3").hide("slow");
+		$("#sub4").hide("slow");
+		$("#sub5").hide("slow");
+	});
+});
+$(document).ready(function(){
+	$("#menu3").click(function(){
+		$("#sub3").slideToggle("slow");
+		$("#sub2").hide("slow");
+		$("#sub1").hide("slow");
+		$("#sub4").hide("slow");
+		$("#sub5").hide("slow");
+	});
+});
+$(document).ready(function(){
+	$("#menu4").click(function(){
+		$("#sub4").slideToggle("slow");
+		$("#sub2").hide("slow");
+		$("#sub3").hide("slow");
+		$("#sub1").hide("slow");
+		$("#sub5").hide("slow");
+	});
+});
+$(document).ready(function(){
+	$("#menu5").click(function(){
+		$("#sub5").slideToggle("slow");
+		$("#sub2").hide("slow");
+		$("#sub3").hide("slow");
+		$("#sub4").hide("slow");
+		$("#sub1").hide("slow");
+	});
+});

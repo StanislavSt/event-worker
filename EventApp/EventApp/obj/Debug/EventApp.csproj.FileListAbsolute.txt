@@ -1,0 +1,215 @@
+C:\Users\Dimitar\Desktop\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\Dimitar\Desktop\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\Dimitar\Desktop\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.hiredApp.resources
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.exitApp.resources
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\Dimitar\Desktop\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.exitApp.resources
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.hiredApp.resources
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\Dimitar\Google Drive\ProP - J\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\Dimitar\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\Dimitar\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\Stanislav\Google Drive\ProP - J\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\Preslav\Desktop\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\Preslav\Desktop\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.exitApp.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.hiredApp.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\Preslav\Desktop\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exitApp.resources
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.hiredApp.resources
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exitApp.resources
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.hiredApp.resources
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\Preslav\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exitApp.resources
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.hiredApp.resources
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\User\Desktop\proP\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exitApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.hiredApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.exitApp.resources
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.hiredApp.resources
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\User\Desktop\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\User\Desktop\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\User\Desktop\EventApp\EventApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\redCross.jpeg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\Green_tick.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\redCross.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\Green_tick.jpeg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\sd-card.jpeg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\power_bank.jpeg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\laptop.jpeg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\headphones.jpeg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\charger.jpeg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\camera.jpeg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\hdmi.jpg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\sd-card.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\power_bank.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\laptop.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\headphones.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\charger.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\camera.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\bin\Debug\Resources\hdmi.jpg
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\Interop.Phidget21COM.dll
+C:\Users\Dimitar\Desktop\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\Interop.Phidget21COM.dll
+C:\Users\User\Desktop\pro-P\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.ResolveComReference.cache
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\Interop.Phidget21COM.dll
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.ResolveComReference.cache
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\redCross.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\sd-card.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\power_bank.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\laptop.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\headphones.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\charger.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\camera.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\Green_tick.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\hdmi.jpg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe.config
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\Interop.Phidget21COM.dll
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.exe
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.pdb
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\redCross.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\sd-card.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\power_bank.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\laptop.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\headphones.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\charger.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\camera.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\Green_tick.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\hdmi.jpg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\EventApp.exe
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\EventApp.pdb
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.entranceApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.inspectionApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Login.resources
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.Properties.Resources.resources
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.shopApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.tentApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.CheckInOutApp.resources
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.EquipmentApp.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.CheckInOutApp.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.EquipmentApp.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\username.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\password.jpg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\OpenCore.jpg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\username.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\OpenCore.jpg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\password.jpg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\obj\Debug\EventApp.PayPalApp.resources
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\gopro.jpeg
+C:\Users\Dimitar\Desktop\My desktop folder\proPproject\ProPJ\EventApp\EventApp\bin\Debug\Resources\selfiestick.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\selfiestick.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\bin\Debug\Resources\gopro.jpeg
+C:\Users\User\Desktop\pro-P\ProPJ\ProPJ\EventApp\EventApp\obj\Debug\EventApp.PayPalApp.resources
