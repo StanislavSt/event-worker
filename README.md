@@ -1,7 +1,7 @@
 # event-worker
 ProP Fontys project
 
-This is the Pro-P project of group J consisting of 4 members:
+This is the Pro-P project of group J consisting of 4 members: </br>
 Preslav Gerchev - https://github.com/preslavgerchev
 Dimitar Vikentiev - https://github.com/dimitarvikentiev
 Stanislav Staev- https://github.com/StanislavSt
