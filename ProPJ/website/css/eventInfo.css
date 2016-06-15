@@ -1,0 +1,58 @@
+body{
+	background: url("backimages/background.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+             background-size: cover;
+}
+#center_box{
+	width: 900px;
+	margin: 0px auto;
+	color: white;
+}
+.dock {
+	padding: 10px;
+	position: relative; 
+	height: 50px; 
+	text-align: center;
+}
+.dock-container {
+	position: absolute;
+	height: 50px;
+	padding-left: 20px;
+}
+a.dock-item {
+	color: white;
+	position: absolute;
+	top: 0px;
+	text-align: center;
+	text-decoration: none;
+	font: bold 22px Arial, Helvetica, sans-serif;
+}
+.dock-item img {
+	border: none; 
+	margin: 5px 10px 0px; 
+	width: 100%; 
+}
+.dock-item span {
+	display: none; 
+	padding-left: 20px;
+}
+#regfilds{
+	margin: 0 auto;
+	width: 500px;
+	font-size: 30px;
+}
+.grid__container {
+  margin: 0 auto;
+  width: 800px;
+}
+#middletext{
+	font-size: 30px;
+}
+#map{
+	margin-left: 110px;
+}
+#festmap{
+	margin-left: 70px;
+}

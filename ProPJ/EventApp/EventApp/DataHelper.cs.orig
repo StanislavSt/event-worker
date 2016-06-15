@@ -1,0 +1,116 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
+using System.Windows.Forms;
+using MySql.Data;
+
+
+namespace EventApp
+{
+    class DataHelper
+    {
+<<<<<<< HEAD
+        int z = 0;
+        public MySqlConnection connectionx;
+        
+=======
+        int i = 0;
+        public MySqlConnection connection;
+>>>>>>> aa0949555d1cc0a0cf6b9458950d5baed2f3833c
+        public DataHelper()
+        {
+
+
+            string connnectionstring = "Server=athena01.fhict.local;Database=dbi315379;Uid=dbi315379;Pwd=etV9hbpQZM;connect timeout=30;";
+
+
+            connection = new MySqlConnection(connnectionstring);
+
+        }
+
+
+        public List<Person> GetAllPeople()
+        {
+
+
+
+            string sql = "SELECT * FROM person";
+            MySqlCommand command = new MySqlCommand(sql, connection);
+            List<Person> temp = new List<Person>();
+
+            try
+            {
+
+                connection.Open();
+                MySqlDataReader reader = command.ExecuteReader();
+
+
+                string fname;
+                string lname;
+                int ticketid;
+                DateTime dateofreg;
+
+                int personalnum;
+                //DateTime checkout;
+                //int braceletid;
+
+                while (reader.Read())
+                {
+
+                    fname = Convert.ToString(reader["First_name"]);
+                    lname = Convert.ToString(reader["Last_name"]);
+                    ticketid = Convert.ToInt32(reader["Ticket_ID"]);
+                    dateofreg = Convert.ToDateTime(reader["DateOfRegistration"]);
+                    personalnum = Convert.ToInt32(reader["PersonalNo"]);
+                    //if (reader["CheckOutDateTime"] != null)
+                    //{
+
+                    //    checkout = Convert.ToDateTime(reader["CheckOutDateTime"]);
+
+                    //}
+                    //if (reader["Bracelet_ID"] != null)
+                    //{
+
+                    //    braceletid = Convert.ToInt32(reader["Bracelet_ID"]);
+                    //}
+
+                    temp.Add(new Person(fname, lname, ticketid, dateofreg, personalnum));
+
+
+                }
+
+
+
+
+
+            }
+            //catch (MySqlException)
+            //{
+
+            //    MessageBox.Show("Something went wrong!");
+
+            //}
+            finally
+            {
+
+                if (connection != null)
+                {
+                    connection.Close();
+                
+                }
+            
+            
+            }
+
+            return temp;
+
+
+            
+        
+        }
+
+    }
+}
